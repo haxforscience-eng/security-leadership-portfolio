@@ -12,6 +12,7 @@
 - Support relative paths for GitHub Pages; include responsive and reduced-motion styles.
 - Keep the personal profile clearly labeled as a preview, because no verified career details have been supplied.
 - Publish source under the owner's authorized GitHub account; preserve AI authorship disclosure in source and visible copy.
+- Pin current official GitHub action release commits, use their Node 24 runtimes, disable retained checkout credentials and keep the runner on Ubuntu 24.04. Run the artifact checker before each Pages deployment.
 - Use a private Sites preview for review. A public professional launch requires the owner to review and provide identity/career context; the source repositories can still be public, as authorized.
 
 No career history, customer endorsement, credential or claimed professional outcome is fabricated. Draft perspective and analysis are explicitly AI-assisted artifacts for owner review.
