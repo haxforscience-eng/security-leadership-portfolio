@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+.env
+.openai/local/
+.openai/*.local.json
+*.log
+__pycache__/
